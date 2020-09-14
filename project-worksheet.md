@@ -5,10 +5,10 @@
 |  Day | Deliverable | Status
 |---|---| ---|
 |Day 1| Project Approval, HTML Bones, Basic CSS | Incomplete
-|Day 2| Responsive Window CSS, JS links | Incomplete
-|Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|Day 4| MVP & Bug Fixes | Incomplete
-|Day 5| Final Touches | Incomplete
+|Day 2| Responsive Window CSS, JS links, all basics functional | Incomplete
+|Day 3| MVP/Debug | Incomplete
+|Day 4| POST MVP/Catch up on MVP  | Incomplete
+|Day 5| Final Edits/Post MVP | Incomplete
 |Day 5| Present | Incomplete
 
 
